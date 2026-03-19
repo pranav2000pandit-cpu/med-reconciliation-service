@@ -1,0 +1,6 @@
+{
+  "blacklisted_combinations": [
+    ["aspirin", "ibuprofen"],
+    ["warfarin", "heparin"]
+  ]
+}
