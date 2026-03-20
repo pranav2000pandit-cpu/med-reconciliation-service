@@ -215,6 +215,10 @@ This generates synthetic patient data with conflicts.
 * Frontend dashboard for clinicians
 
 ---
+## Final Update
+Project completed with all required features.
+
+---
 
 ## 👨‍💻 Author
 
